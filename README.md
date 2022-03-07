@@ -1,4 +1,4 @@
-ct app with fake json server
+React app with fake json server
 
 1. At first follow this video to configure it 
 https://www.youtube.com/watch?v=gSqJGGBah3Y&t=225s
